@@ -1,0 +1,42 @@
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\zurcan\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Form1.resx
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Form1.resx
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Metelkin\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\bin\Debug\Form1.resx
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Александр Цуркан\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\bin\Debug\Form1.resx
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
