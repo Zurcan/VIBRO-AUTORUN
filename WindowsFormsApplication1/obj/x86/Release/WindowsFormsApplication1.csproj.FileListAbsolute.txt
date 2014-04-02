@@ -40,3 +40,5 @@ C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Release\Windo
 C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\bin\Release\Form1.resx
 C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
 C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

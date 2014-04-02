@@ -40,3 +40,15 @@ C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\Windows
 C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\Alexandr\Desktop\autorun\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\bin\Debug\Form1.resx
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\tsurkan\VIBRO-AUTORUN\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

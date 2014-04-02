@@ -24,7 +24,7 @@ namespace WindowsFormsApplication1
             startInfo.WindowStyle = ProcessWindowStyle.Minimized;
            // Environment.CurrentDirectory = Environment.GetEnvironmentVariable("dir");
             // Process.Start(startInfo);
-
+            
             startInfo.Arguments = Application.StartupPath+"Продукция";
 
             Process.Start(startInfo);
@@ -120,7 +120,7 @@ namespace WindowsFormsApplication1
 
             // Process.Start(startInfo);
 
-            startInfo.Arguments = Environment.CurrentDirectory+"Разрешительные документы";
+            startInfo.Arguments = Environment.CurrentDirectory + "Разрешительные документы";
 
             Process.Start(startInfo);
         }
@@ -231,6 +231,28 @@ namespace WindowsFormsApplication1
 
             Process.Start(startInfo);
             //label1.Text = startInfo.Arguments;
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            ProcessStartInfo startInfo = new ProcessStartInfo("IExplore.exe");
+            startInfo.WindowStyle = ProcessWindowStyle.Minimized;
+
+            // Process.Start(startInfo);
+
+            startInfo.Arguments = Environment.CurrentDirectory + "Продукция\\HART-модем_ВТ-904";
+
+            Process.Start(startInfo);
+        }
+
+        private void button10_MouseEnter(object sender, EventArgs e)
+        {
+            button10.ForeColor = Color.White;
+        }
+
+        private void button10_MouseLeave(object sender, EventArgs e)
+        {
+            button10.ForeColor = Color.SteelBlue;
         }
 
 
